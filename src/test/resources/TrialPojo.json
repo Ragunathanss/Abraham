@@ -1,0 +1,10 @@
+{
+"name" :"ragu",
+"email" :"ragu@gmail.com",
+"phonNo" : 9444778987,
+"address": {
+    "streetName": "colony",
+    "state": "TamilNadu",
+    "pincode": 908456
+}
+}

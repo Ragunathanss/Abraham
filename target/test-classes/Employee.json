@@ -1,0 +1,20 @@
+{
+"name" :"ragu",
+"email" :"ragu@gmail.com",
+"phonNo" : 9444778987,
+"empDetails": [
+     {
+     "firstName": "mani",
+     "lastName": "kandan",
+     "address": "chinna selam"
+     },{
+     "firstName": "ragu",
+     "lastName": "nathan",
+     "address": "chengalpattu"
+     },{
+     "firstName": "sasi",
+     "lastName": "kumar",
+     "address": "selam"
+     }
+]
+}

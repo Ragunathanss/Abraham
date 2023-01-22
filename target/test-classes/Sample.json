@@ -1,0 +1,11 @@
+{
+"name" :"ragu",
+"email" :"ragu@gmail.com",
+"PhonNo" : 9444778987,
+"rate": 54,
+"payment":{
+"gpay": 2300,
+"phonepay": 500,
+"paytm": 200
+}
+}
